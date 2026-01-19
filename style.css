@@ -81,7 +81,7 @@ a {
     border: 2px solid black;
     text-decoration: none;
     background-color: #324362;
-    color: rgb(0, 0, 0);
+    color: white;
     transition-duration: 0.4s;
     margin-right: 30px;
 }
